@@ -1,4 +1,4 @@
-# Dart Calculator Program Explanation
+# Dart Calculator Program 
 
 This program creates a simple calculator menu that allows users to perform basic arithmetic operations: addition, subtraction, multiplication, division, and modulus.
 
